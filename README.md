@@ -29,7 +29,7 @@
 
 ## 全览
 
-![image](https://../other/程序员书单.png)
+![image](https://github.com/biao-code/book/other/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B9%A6%E5%8D%95.png)
 
 ## 程序员的自我修养
 
